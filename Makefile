@@ -1,6 +1,6 @@
 BINARY=target/armv7-unknown-linux-gnueabihf/release/pyramid-player
 
-all: $(BINARY)
+install: $(BINARY)
 
 clean:
 	rm $(BINARY) 
